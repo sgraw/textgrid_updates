@@ -99,7 +99,7 @@ item []:
         intervals [16]:
             xmin = 1.621
             xmax = 2.2
-            text = "computer."
+            text = "comPUter."
         intervals [17]:
             xmin = 2.2
             xmax = 2.5113832199546486
