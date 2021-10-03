@@ -1,0 +1,334 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.5113832199546486
+tiers? <exists>
+size = 5
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "sentence"
+        xmin = 0
+        xmax = 2.5113832199546486
+        intervals: size = 1
+        intervals [1]:
+            xmin = 0
+            xmax = 2.5113832199546486
+            text = "She is sitting in front of her computer."
+    item [2]:
+        class = "IntervalTier"
+        name = "clause"
+        xmin = 0
+        xmax = 2.5113832199546486
+        intervals: size = 2
+        intervals [1]:
+            xmin = 0
+            xmax = 2.511
+            text = "She is sitting in front of her computer."
+        intervals [2]:
+            xmin = 2.511
+            xmax = 2.5113832199546486
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "word"
+        xmin = 0
+        xmax = 2.5113832199546486
+        intervals: size = 17
+        intervals [1]:
+            xmin = 0
+            xmax = 0.011
+            text = ""
+        intervals [2]:
+            xmin = 0.011
+            xmax = 0.192
+            text = "She"
+        intervals [3]:
+            xmin = 0.192
+            xmax = 0.202
+            text = ""
+        intervals [4]:
+            xmin = 0.202
+            xmax = 0.34900000000000003
+            text = "is"
+        intervals [5]:
+            xmin = 0.34900000000000003
+            xmax = 0.371
+            text = ""
+        intervals [6]:
+            xmin = 0.371
+            xmax = 0.752
+            text = "sitting"
+        intervals [7]:
+            xmin = 0.752
+            xmax = 0.762
+            text = ""
+        intervals [8]:
+            xmin = 0.762
+            xmax = 0.877
+            text = "in"
+        intervals [9]:
+            xmin = 0.877
+            xmax = 0.899
+            text = ""
+        intervals [10]:
+            xmin = 0.899
+            xmax = 1.254
+            text = "front"
+        intervals [11]:
+            xmin = 1.254
+            xmax = 1.264
+            text = ""
+        intervals [12]:
+            xmin = 1.264
+            xmax = 1.4040000000000001
+            text = "of"
+        intervals [13]:
+            xmin = 1.4040000000000001
+            xmax = 1.426
+            text = ""
+        intervals [14]:
+            xmin = 1.426
+            xmax = 1.572
+            text = "her"
+        intervals [15]:
+            xmin = 1.572
+            xmax = 1.621
+            text = ""
+        intervals [16]:
+            xmin = 1.621
+            xmax = 2.2
+            text = "computer."
+        intervals [17]:
+            xmin = 2.2
+            xmax = 2.5113832199546486
+            text = ""
+    item [4]:
+        class = "IntervalTier"
+        name = "phoneme"
+        xmin = 0
+        xmax = 2.5113832199546486
+        intervals: size = 37
+        intervals [1]:
+            xmin = 0
+            xmax = 0.011
+            text = ""
+        intervals [2]:
+            xmin = 0.011
+            xmax = 0.10400000000000001
+            text = "ʃ"
+        intervals [3]:
+            xmin = 0.10400000000000001
+            xmax = 0.192
+            text = "iː"
+        intervals [4]:
+            xmin = 0.192
+            xmax = 0.202
+            text = ""
+        intervals [5]:
+            xmin = 0.202
+            xmax = 0.269
+            text = "ɪ"
+        intervals [6]:
+            xmin = 0.269
+            xmax = 0.34900000000000003
+            text = "z"
+        intervals [7]:
+            xmin = 0.34900000000000003
+            xmax = 0.371
+            text = ""
+        intervals [8]:
+            xmin = 0.371
+            xmax = 0.443
+            text = "s"
+        intervals [9]:
+            xmin = 0.443
+            xmax = 0.5640000000000001
+            text = "ɪ"
+        intervals [10]:
+            xmin = 0.5640000000000001
+            xmax = 0.604
+            text = "t"
+        intervals [11]:
+            xmin = 0.604
+            xmax = 0.676
+            text = "ɪ"
+        intervals [12]:
+            xmin = 0.676
+            xmax = 0.752
+            text = "ŋ"
+        intervals [13]:
+            xmin = 0.752
+            xmax = 0.762
+            text = ""
+        intervals [14]:
+            xmin = 0.762
+            xmax = 0.8140000000000001
+            text = "ɪ"
+        intervals [15]:
+            xmin = 0.8140000000000001
+            xmax = 0.877
+            text = "n"
+        intervals [16]:
+            xmin = 0.877
+            xmax = 0.899
+            text = ""
+        intervals [17]:
+            xmin = 0.899
+            xmax = 0.975
+            text = "f"
+        intervals [18]:
+            xmin = 0.975
+            xmax = 1.033
+            text = "ɹ"
+        intervals [19]:
+            xmin = 1.033
+            xmax = 1.091
+            text = "ʌ"
+        intervals [20]:
+            xmin = 1.091
+            xmax = 1.209
+            text = "n"
+        intervals [21]:
+            xmin = 1.209
+            xmax = 1.254
+            text = "t"
+        intervals [22]:
+            xmin = 1.254
+            xmax = 1.264
+            text = ""
+        intervals [23]:
+            xmin = 1.264
+            xmax = 1.34
+            text = "ɒ"
+        intervals [24]:
+            xmin = 1.34
+            xmax = 1.4040000000000001
+            text = "v"
+        intervals [25]:
+            xmin = 1.4040000000000001
+            xmax = 1.426
+            text = ""
+        intervals [26]:
+            xmin = 1.426
+            xmax = 1.477
+            text = "h"
+        intervals [27]:
+            xmin = 1.477
+            xmax = 1.572
+            text = "ɜː"
+        intervals [28]:
+            xmin = 1.572
+            xmax = 1.621
+            text = ""
+        intervals [29]:
+            xmin = 1.621
+            xmax = 1.667
+            text = "k"
+        intervals [30]:
+            xmin = 1.667
+            xmax = 1.711
+            text = "ə"
+        intervals [31]:
+            xmin = 1.711
+            xmax = 1.819
+            text = "m"
+        intervals [32]:
+            xmin = 1.819
+            xmax = 1.852
+            text = "p"
+        intervals [33]:
+            xmin = 1.852
+            xmax = 1.933
+            text = "j"
+        intervals [34]:
+            xmin = 1.933
+            xmax = 2.069
+            text = "uː"
+        intervals [35]:
+            xmin = 2.069
+            xmax = 2.109
+            text = "t"
+        intervals [36]:
+            xmin = 2.109
+            xmax = 2.2
+            text = "ə"
+        intervals [37]:
+            xmin = 2.2
+            xmax = 2.5113832199546486
+            text = ""
+    item [5]:
+        class = "IntervalTier"
+        name = "POS"
+        xmin = 0
+        xmax = 2.5113832199546486
+        intervals: size = 17
+        intervals [1]:
+            xmin = 0
+            xmax = 0.011
+            text = ""
+        intervals [2]:
+            xmin = 0.011
+            xmax = 0.192
+            text = "PRON"
+        intervals [3]:
+            xmin = 0.192
+            xmax = 0.202
+            text = ""
+        intervals [4]:
+            xmin = 0.202
+            xmax = 0.34900000000000003
+            text = "VERB"
+        intervals [5]:
+            xmin = 0.34900000000000003
+            xmax = 0.371
+            text = ""
+        intervals [6]:
+            xmin = 0.371
+            xmax = 0.752
+            text = "VERB"
+        intervals [7]:
+            xmin = 0.752
+            xmax = 0.762
+            text = ""
+        intervals [8]:
+            xmin = 0.762
+            xmax = 0.877
+            text = "PP"
+        intervals [9]:
+            xmin = 0.877
+            xmax = 0.899
+            text = ""
+        intervals [10]:
+            xmin = 0.899
+            xmax = 1.254
+            text = "NOUN"
+        intervals [11]:
+            xmin = 1.254
+            xmax = 1.264
+            text = ""
+        intervals [12]:
+            xmin = 1.264
+            xmax = 1.4040000000000001
+            text = "PP"
+        intervals [13]:
+            xmin = 1.4040000000000001
+            xmax = 1.426
+            text = ""
+        intervals [14]:
+            xmin = 1.426
+            xmax = 1.572
+            text = "PRON"
+        intervals [15]:
+            xmin = 1.572
+            xmax = 1.621
+            text = ""
+        intervals [16]:
+            xmin = 1.621
+            xmax = 2.2
+            text = "NOUN"
+        intervals [17]:
+            xmin = 2.2
+            xmax = 2.5113832199546486
+            text = ""
